@@ -1,1 +1,281 @@
-<h1> Web de viaje </h1>
+
+<h1><b> Web del Viaje <b></h1>
+<a href="https://calendar.google.com/calendar/u/1?cid=Y19mazIybWR2MHY3NTNsZG52bjJnZmd1cGM5Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"> Calendario del viaje </a>
+
+<h2><b> Primer día de viaje <b></h2>
+
+<p> Salgo de Barcelona de la calle Mallorca para estar en el Aeropuerto del Prat de Barcelona donde cojo un avión con salida a las 16:05h con destino a París, hora de llegada 18:05h.</p> 
+
+<p> Del aeropuerto de París-Charles de Gaulle cojo un taxi que me costará entre 9€ que me llevará al  Hotel hotelF1 Roissy CDG</p>
+<a href="https://all.accor.com/hotel/3506/index.en.shtml?dateIn=2021-11-12&nights=6&compositions=1&stayplus=false#origin=accor">Pagina del hotel</a>
+
+<p> Busco un lugar cerca del Hotel para cenar Mcdonalds y después descansar hasta el día siguiente. </p>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Primer dia </th>
+      <th> Vuelo </th>
+      <th> Taxi </th>
+      <th> Hotel </th>
+      <th> Cena </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 1000€ </td>
+      <td> 24,99€ </td>
+      <td> 9€ </td>
+      <td> 204€ </td>
+      <td> 9€ </td>
+      <td> 753,01€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+
+
+<h2><b> Segundo día del viaje <b></h2>
+
+<p> Hoy no estoy muy lejos del hotel, voy andando hasta el Vestiges du Château de Roissy,
+    donde pasaré gran parte de la mañana. </p>
+
+<p> Busco un restaurante para comer y desayunar <a href="https://www.auxtroisgourmands.fr/"Página del restaurante</a> </p>
+
+<p> Visito el Parque de Ayuntamiento. situado en 34 Av. Charles de Gaulle, 95700 Roissy-en-France,
+    donde estaré toda la tarde <a href="https://www.roissyenfrance.fr/">Roissy-en-France</a>
+    Más tarde iré a una pizzería/kebab <a href="https://ckebab.fr/">Página de la pizzería/kebab</a>, 
+    para cenar antes de volver andando al hotel. </p>
+
+<table>
+  <thead>
+    <tr>
+      <th> Segundo día </th>
+      <th> Desayuno </th>
+      <th> Comida </th>
+      <th> Cena </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 753,01€ </td>
+      <td> 6€ </td>
+      <td> 15€ </td>
+      <td> 9,5€ </td>
+      <td> 722,51€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+
+<h2><b> Tercer día del viaje <b></h2>
+
+<p> En este día estoy de compras en centros comerciales como IKEA Paris Nord Roissy,
+    NIKE Factory Store y visitare un Parque:
+    “Parc d'Affaires International Paris” 102 Av. des Nations, 93420 Villepinte, Francia </p>
+
+<p> El primer lugar es Ikea, donde veo su exposición de artículos y donde desayunaré en su restaurante. </p>
+
+<p> Después voy hacia la tienda NIKE Factory Store y me compro unas zapatillas deportivas. </p>
+
+<p> A continuación voy caminando a comer que será el Burger King. </p>
+
+<p> Por la tarde visito el Parc d'Affaires International París y de regreso al hotel paro en el Restaurante Courtepaille para cenar. </P>
+<img src="https://cdn.courtepaille.com/wp-content/uploads/2021/07/Menu-Paille-Express-desk.png">
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Tercer día </th>
+      <th> Desayuno </th>
+      <th> Comida </th>
+      <th> Cena </th>
+      <th> Bambas </th>
+
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 722,51€ </td>
+      <td> 3€ </td>
+      <td> 10€ </td>
+      <td> 9,9€ </td>
+      <td> 50€ </td>
+      <td> 649,61€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d10474.114873941784!2d2.4971891946525946!3d48.981495001564085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0x47e6150a0234aea3%3A0x609e294cdc060b62!2s335%20Rue%20de%20la%20Belle%20%C3%89toile%2C%2095700%20Roissy-en-France%2C%20Francia!3m2!1d48.988887999999996!2d2.5135126!4m5!1s0x47e6151e0ba86307%3A0x989403a0d90c0b6d!2sIKEA%20Paris%20Nord%20Roissy%2C%20164%20Av.%20de%20la%20Plaine%20de%20France%2C%2095950%20Gonesse%2C%20Francia!3m2!1d48.9750801!2d2.4938568!4m5!1s0x47e6151c66efc689%3A0xa49180bb3abd81f0!2sNike!3m2!1d48.979040399999995!2d2.4990953!4m5!1s0x47e6151da849af33%3A0xe583c13a2dfcaaa9!2sBurger%20King!3m2!1d48.976068999999995!2d2.4982712!4m5!1s0x47e615aae20a2a57%3A0x1f678aa7ec151c31!2sParc%20d&#39;Affaires%20International%20Paris%20Nord%202%2C%20102%20Av.%20des%20Nations%2C%2093420%20Villepinte%2C%20Francia!3m2!1d48.9741283!2d2.5143150999999997!4m5!1s0x47e615a0d00f39d9%3A0xc24830b8658e4c74!2sCourtepaille%2C%20335%20Rue%20de%20la%20Belle%20%C3%89toile%2C%2095700%20Roissy-en-France%2C%20Francia!3m2!1d48.989151799999995!2d2.5141335!4m5!1s0x47e6150a0234aea3%3A0x609e294cdc060b62!2s335%20Rue%20de%20la%20Belle%20%C3%89toile%2C%2095700%20Roissy-en-France%2C%20Francia!3m2!1d48.988887999999996!2d2.5135126!5e0!3m2!1ses!2ses!4v1633253278287!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+
+<h2><b> Cuarto día del viaje <b></h2>
+
+<p> Este día estoy por el centro de París. 
+    Salgo del Hotel y me dirijo al centro de París en taxi hasta la Torre Eiffel,
+    una vez allí visito lugares céntricos como Arco de Triunfo de París, Musée d'Orsay,
+    Catedral de Notre Dame, Plaza de la Bastilla, Panteón de París, todo caminando.
+    Al final del día compro en un supermercado algo para poder cenar y desayunos para los demás días.
+    Regreso al hotel en taxi. <p>
+
+<table>
+  <thead>
+    <tr>
+      <th> Cuarto día </th>
+      <th> Taxi hasta torre Eiffel </th>
+      <th> Comida Rte PavYllon </th>
+      <th> Museo Museé d'Orsay </th>
+      <th> Catedral Notre Dame </th>
+      <th> Panteón de París </th>
+      <th> Supermercado cena y varios desayunos </th>
+      <th> Taxi al hotel </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 649,61€ </td>
+      <td> 52€ </td>
+      <td> 25€ </td>
+      <td> 12€ </td>
+      <td> 8,5€ </td>
+      <td> 9€ </td>
+      <td> 20€ </td>
+      <td> 50€ </td>
+      <td> 473,11€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d20999.093455616894!2d2.313795988951777!3d48.86037120840697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sTorre%20Eiffel%2C%20Torre%20Eiffel%2C%20Avenue%20Anatole%20France%2C%20Par%C3%ADs%2C%20Francia!3m2!1d48.858370099999995!2d2.2944812999999997!4m5!1s0x47e66fec70fb1d8f%3A0xd9b5676e112e643d!2sArco%20de%20Triunfo%20de%20Par%C3%ADs%2C%20Pl.%20Charles%20de%20Gaulle%2C%2075008%20Paris%2C%20Francia!3m2!1d48.8738112!2d2.2950416!4m5!1s0x47e66ffbad15bd35%3A0xf879deb42a2de831!2sPavYllon%2C%208%20Av.%20Dutuit%2C%2075008%20Paris%2C%20Francia!3m2!1d48.866794!2d2.3157695!4m5!1s0x47e66e2bb630941b%3A0xd071bd8cb14423d8!2sMus%C3%A9e%20d&#39;Orsay%2C%201%20Rue%20de%20la%20L%C3%A9gion%20d&#39;Honneur%2C%2075007%20Paris%2C%20Francia!3m2!1d48.859961399999996!2d2.3265614!4m5!1s0x47e671e19ff53a01%3A0x36401da7abfa068d!2sCatedral%20de%20Notre%20Dame%2C%206%20Parvis%20Notre-Dame%20-%20Pl.%20Jean-Paul%20II%2C%2075004%20Paris%2C%20Francia!3m2!1d48.8529682!2d2.3499021!4m5!1s0x47e67201aca99229%3A0x231eb0c967e5eb10!2sPlaza%20de%20la%20Bastilla%2C%20Pl.%20de%20la%20Bastille%2C%2075004%20Paris%2C%20Francia!3m2!1d48.853186099999995!2d2.3691305!4m5!1s0x47e671e7d297c973%3A0xe5eb004f23a758!2sPante%C3%B3n%20de%20Par%C3%ADs%2C%20Pl.%20du%20Panth%C3%A9on%2C%2075005%20Paris%2C%20Francia!3m2!1d48.846221799999995!2d2.3464138!4m5!1s0x47e671e5aac9d1b9%3A0x5679dc4c71274a7b!2sSUPERMERCADO%2C%2014-22%20Rue%20de%20Poissy%2C%2075005%20Paris%2C%20Francia!3m2!1d48.849698!2d2.3519698!5e0!3m2!1ses!2ses!4v1633256383385!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+<h2> Quinto día del viaje </h2>
+
+
+<p> Hoy día de descanso en el hotel F1 Roissy CDG. Como y ceno en el mismo restaurante “Courtepaille” </p>
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Quinto día </th>
+      <th> Comida </th>
+      <th> Cena </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 473,11€ </td>
+      <td> 14,9€ </td>
+      <td> 9,9€ </td>
+      <td> 448,31€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+
+<h2><b> Sexto día del viaje <b></h2>
+
+<p> Este día voy al Parc Asterix en taxi, como comida rápida del mismo parque y me regreso en taxi hacia el hotel. <p>
+<a href="https://www.parcasterix.fr/offres/billets">Página del parque</a>
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Sexto día </th>
+      <th> Taxi del hotel al parque </th>
+      <th> Entrada parque </th>
+      <th> Souvenir </th>
+      <th> Comida </th>
+      <th> Cena </th>
+      <th> Taxi de regreso </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 448,31€ </td>
+      <td> 32€ </td>
+      <td> 53€ </td>
+      <td> 45€ </td>
+      <td> 21,20€ </td>
+      <td> 20€ </td>
+      <td> 27€ </td>
+      <td> 250,11€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+<h2><b> Séptimo día del viaje <b></h2>
+
+<p> Último día de estancia en París. 
+    Cojo un taxi bien temprano con destino al Aeropuerto de París-Orly donde el avión sale a las 07:00h.
+    Llego a Barcelona a las 08:40h donde para finalizar mi viaje cojo un taxi que me lleva a mi casa en calle Mallorca. <p>
+
+
+<table>
+  <thead>
+    <tr>
+      <th> Séptimo día </th>
+      <th> Vuelo de vuelta </th>
+      <th> Taxis </th>
+      <th> Restante </th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td> 250,11€ </td>
+      <td> 28,99€ </td>
+      <td> 55€ </td>
+      <td> 166,12€ </td>
+    </tr>
+  </tfoot>
+     </tr>
+  </tbody>
+</table>
+
+
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d168001.24933946313!2d2.243156512957975!3d48.85783814622599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47e6150a0234aea3%3A0x609e294cdc060b62!2s335%20Rue%20de%20la%20Belle%20%C3%89toile%2C%2095700%20Roissy-en-France%2C%20Francia!3m2!1d48.988887999999996!2d2.5135126!4m5!1s0x47e675b1fa6a3b1d%3A0x9d78ded743db8422!2sAeropuerto%20de%20Par%C3%ADs-Orly%20(ORY)%2C%20Orly%2C%20Francia!3m2!1d48.7262321!2d2.3652422!5e0!3m2!1ses!2ses!4v1633261866803!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+
+
